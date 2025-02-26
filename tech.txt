@@ -1,0 +1,144 @@
+What does HTTP stand for?
+Hypertext Transfer Protocol
+Hyper Tool Transfer Protocol
+Hypertext Transport Protocol
+High Transfer Text Protocol
+1
+Who is known as the father of the computer?
+Charles Babbage
+Alan Turing
+Bill Gates
+Steve Jobs
+1
+What is the main function of the CPU in a computer?
+Storage
+Processing
+Displaying
+Cooling
+2
+Which programming language is primarily used for iOS app development?
+Java
+Swift
+C++
+Python
+2
+What is the full form of "SQL"?
+Simple Query Language
+Structured Question Language
+Structured Query Language
+Sequential Query Language
+3
+What company developed the first personal computer, the Altair 8800?
+IBM
+Apple
+Microsoft
+MITS
+4
+Which of these is a type of machine learning?
+Supervised Learning
+Supervised Coding
+Unstructured Learning
+Untrained Learning
+1
+What does the acronym "RAM" stand for?
+Random Access Memory
+Read Access Memory
+Real Access Memory
+Rapid Access Memory
+1
+What year was the first iPhone released?
+2005
+2006
+2007
+2008
+3
+Which company is the creator of the Android operating system?
+Apple
+Google
+Microsoft
+Amazon
+2
+Which of these programming languages was developed by Sun Microsystems?
+Java
+Python
+Ruby
+C++
+1
+What does the term “cloud computing” refer to?
+Storing data on your personal hard drive
+Accessing data via the internet
+Processing data on local servers
+Transferring data from one computer to another
+2
+What is the main purpose of the GPU in a computer?
+Storing data
+Processing graphical data
+Controlling the system
+Executing commands
+2
+Which technology is commonly used for cryptocurrency transactions?
+Blockchain
+FTP
+HTTP
+SMTP
+1
+What does the acronym "USB" stand for?
+Universal Serial Bus
+Unified Serial Bus
+Uniform System Bus
+Universal Storage Bus
+1
+Which company owns the popular search engine "Bing"?
+Google
+Yahoo
+Microsoft
+Apple
+3
+What is the name of the first video game ever created?
+Space Invaders
+Pong
+Tennis for Two
+Asteroids
+3
+What type of device is an example of the Internet of Things (IoT)?
+Smart refrigerator
+Desktop computer
+Laptop
+Tablet
+1
+Which protocol is used to secure communication over the internet?
+HTTP
+FTP
+SMTP
+HTTPS
+4
+Which company developed the Windows operating system?
+Apple
+Microsoft
+Google
+IBM
+2
+What does the term "HTML" stand for?
+HyperText Machine Language
+HyperText Markup Language
+HighText Markup Language
+HyperTool Markup Language
+2
+Which of these is a popular cloud storage service?
+Google Drive
+Dropbox
+iCloud
+All of the above
+4
+Which programming language is used to build Android applications?
+Java
+Swift
+Python
+C#
+1
+What is the full form of "URL"?
+Uniform Resource Locator
+Uniform Retrieval Locator
+Universal Resource Locator
+Unified Resource Locator
+1

@@ -1,0 +1,8 @@
+prachi 0
+rishika 35
+gautam 30
+chahat 40
+lucky 45
+student 45
+kunal 35
+nikki 45
